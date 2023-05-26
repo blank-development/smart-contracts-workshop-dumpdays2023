@@ -42,6 +42,8 @@ Službena dokumentacija: https://docs.soliditylang.org/en/latest/index.html
 
 Jednostavni primjeri: https://solidity-by-example.org/
 
+Cheatsheet: https://docs.soliditylang.org/en/latest/cheatsheet.html
+
 ## :artist: DUMP Days NFT kolekcija (ERC721 standard)
 ERC721 standard: https://eips.ethereum.org/EIPS/eip-721
 
